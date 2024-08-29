@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neal
-- 👀 I’m a headhunter.[Please don't be offended or disgusted, but scroll down.]
+- 👀 I’m a headhunter.
 - 🌱 Previously, I was in charge of recruiting for the Institute of Fundamental Theory at the Zhejiang Laboratory,
 - where I recruited mainly for algorithms and engineering majors such as deep learning, reinforcement learning,
 - computational mathematics, software engineering, front-end development, and so on.
